@@ -1,1 +1,2 @@
 Hello! Git is open tool source code managament tool
+Git is free 
